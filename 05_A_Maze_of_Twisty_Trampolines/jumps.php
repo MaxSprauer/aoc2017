@@ -1,5 +1,7 @@
 <?php
 
+// Copyright 2018 Max Sprauer
+
 $offsets = file_get_contents('input.txt');
 $offsets = explode("\n", $offsets);
 
